@@ -1,0 +1,7 @@
+{
+  "name": "Supervisi Pembelajaran Mendalam - Google Apps Script",
+  "description": "Aplikasi Supervisi Pembelajaran Mendalam berbasis Google Apps Script dengan penyimpanan otomatis ke Google Sheets di akun pengguna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
